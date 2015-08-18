@@ -1,0 +1,9 @@
+[submodule "pydata2014nyc"]
+    path = ../pydata2014nyc
+    url = git://github.com/gjreda/pydata2014nyc.git
+[submodule "datapopup2015chi"]
+    path = ../datapopup2015chi
+    url = git://github.com/gjreda/datapopup2015chi.git
+[submodule "pydata2015sea"]
+    path = ../pydata2015sea
+    url = git://github.com/gjreda/pydata2015sea.git
